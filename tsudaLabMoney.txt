@@ -1,4 +1,5 @@
-#Date		inout	balance	note
+#Date		activitybalance	note
 2018/4/17	0	11092	Inherited
 2018/5/9	-1000	10092	basket competition
 2018/5/16	-1500	8592	soccer competition
+2018/5/22	-1000	7592	bally competition
