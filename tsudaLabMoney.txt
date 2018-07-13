@@ -6,3 +6,4 @@
 2018/7/3	-365	7227	hand soap
 2018/7/10	-4500	2727	baseball competition
 2018/7/11	-1500	1227	Ms. Mukai cancel
+2018/7/13	-2100	-873	baseball ball*3
